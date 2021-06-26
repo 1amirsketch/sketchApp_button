@@ -22,5 +22,9 @@
   {
     "عکس": "https://s4.uupload.ir/files/۲۰۲۱۰۶۲۶_۲۲۲۱۰۱_4s2w.jpg",
     "کد": "/* Your code generate */\n{\nandroid.graphics.drawable.GradientDrawable SketchUi \u003d new android.graphics.drawable.GradientDrawable();\nSketchUi.setColor(0xFF2A6AFF);\nfloat lt \u003d getDip(22);\nfloat rt \u003d getDip(22);\nfloat rb \u003d getDip(22);\nfloat lb \u003d getDip(22);\nSketchUi.setCornerRadii(new float[]{\n\tlt,lt,rt ,rt,rb,rb ,lb,lb });\nLinear1.setElevation(getDip(8));\nLinear1.setBackground(SketchUi);\n}"
+  },
+  {
+    "عکس": "https://s4.uupload.ir/files/۲۰۲۱۰۶۲۶_۲۲۲۴۴۶_hp8.jpg",
+    "کد": "/* Your code generate */\n{\nandroid.graphics.drawable.GradientDrawable SketchUi \u003d new android.graphics.drawable.GradientDrawable();\nSketchUi.setColor(0xFFA1D8BA);\nfloat lt \u003d getDip(15);\nfloat rt \u003d getDip(15);\nfloat rb \u003d getDip(15);\nfloat lb \u003d getDip(15);\nSketchUi.setCornerRadii(new float[]{\n\tlt,lt,rt ,rt,rb,rb ,lb,lb });\nLinear1.setElevation(getDip(13));\nLinear1.setBackground(SketchUi);\n}"
   }
 ]
