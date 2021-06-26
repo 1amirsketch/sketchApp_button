@@ -1,1 +1,6 @@
-Hd
+[
+  {
+    "عکس": "https://s4.uupload.ir/files/۲۰۲۱۰۶۲۶_۱۵۵۰۴۱_ax40.jpg",
+    "کد": "/* Your code generate */\n{\nandroid.graphics.drawable.GradientDrawable SketchUi \u003d new android.graphics.drawable.GradientDrawable();\nSketchUi.setColor(0xFFFF0011);\nfloat lt \u003d getDip(0);\nfloat rt \u003d getDip(360);\nfloat rb \u003d getDip(0);\nfloat lb \u003d getDip(360);\nSketchUi.setCornerRadii(new float[]{\n\tlt,lt,rt ,rt,rb,rb ,lb,lb });\nid.setElevation(getDip(5));\nid.setBackground(SketchUi);\n}"
+  }
+]
