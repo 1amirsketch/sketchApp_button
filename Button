@@ -6,5 +6,5 @@
   {
     "کد": "/* Your code generate */\n{\nandroid.graphics.drawable.GradientDrawable SketchUi \u003d new android.graphics.drawable.GradientDrawable();\nSketchUi.setColor(0xFF346FE5);\nfloat lt \u003d getDip(25);\nfloat rt \u003d getDip(25);\nfloat rb \u003d getDip(25);\nfloat lb \u003d getDip(25);\nSketchUi.setCornerRadii(new float[]{\n\tlt,lt,rt ,rt,rb,rb ,lb,lb });\nLinear1.setElevation(getDip(3));\nLinear1.setBackground(SketchUi);\n}",
     "تصویر": "https://s4.uupload.ir/files/۲۰۲۱۰۶۲۶_۱۶۰۶۳۱_69hp.jpg"
-  }
+  },
 ]
