@@ -1,0 +1,6 @@
+[
+  {
+    "کد": "/* Your code generate */\n{\nandroid.graphics.drawable.GradientDrawable SketchUi \u003d new android.graphics.drawable.GradientDrawable();\nSketchUi.setColor(0xFFFF002B);\nfloat lt \u003d getDip(0);\nfloat rt \u003d getDip(0);\nfloat rb \u003d getDip(51);\nfloat lb \u003d getDip(51);\nSketchUi.setCornerRadii(new float[]{\n\tlt,lt,rt ,rt,rb,rb ,lb,lb });\nLinear1.setElevation(getDip(2));\nLinear1.setBackground(SketchUi);\n}",
+    "عکس": "https://s4.uupload.ir/files/۲۰۲۱۰۶۲۶_۲۲۰۰۳۹_yv2.jpg"
+  }
+]
